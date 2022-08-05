@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "179494741037",
+    "project_id": "app2go-c5bbe",
+    "storage_bucket": "app2go-c5bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179494741037:android:e7d1e58570786fb41b44a4",
+        "android_client_info": {
+          "package_name": "com.example.app2go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179494741037-die126kb2jfmvmergv7j49ae2nphtg6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Lv26fsL9imsA6yasyDXX0csp2iLOAlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179494741037-die126kb2jfmvmergv7j49ae2nphtg6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "179494741037-9td90autmpb8vj27utlata8im955e3ab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app2go"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
